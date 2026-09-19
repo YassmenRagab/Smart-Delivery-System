@@ -6,27 +6,6 @@
 
 ### *An end-to-end data analysis and machine learning project built as part of the NTI Advanced Data Analysis Course.*
 
-## 📑 Table of Contents
-
-* [Overview](#-overview)
-* [Problem Statement](#-problem-statement)
-* [Team](#-team)
-* [Project Pipeline](#-project-pipeline)
-* [Repository Structure](#-repository-structure)
-* [Dataset](#-dataset)
-* [Tech Stack](#-tech-stack)
-* [Getting Started](#-getting-started)
-* [Key Results \& Insights](#-key-results--insights)
-* [Dashboard](#-dashboard)
-* [Streamlit App](#-streamlit-app)
-* [Documentation](#-documentation)
-* [Project Status](#-project-status)
-* [Contributing (Team Workflow)](#-contributing-team-workflow)
-* [License](#-license)
-* [Contact](#-contact)
-
-\---
-
 ## 📌 Overview
 
 Smart Delivery System is a data-driven project designed to predict whether an order will be delivered on time or delayed.
@@ -166,19 +145,4 @@ Smart Delivery System/
 └── README.md```
 
 
-✅ Project Status
-
-|Area|Status|
-|-|-|
-|Project Definition|`Completed`|
-|Data Preparation|`Completed`|
-|EDA \& Statistical Analysis|`Completed`|
-|Machine Learning|`Completed`|
-|Dashboard|`Completed`|
-|Streamlit|`Completed`|
-|Documentation|`Completed`|
-
-
-
-## 
 
